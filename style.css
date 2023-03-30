@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    font-family: 'Bree Serif', serif;
+}
 
 .cabeçalho {
     background-color: #76FFDE;
@@ -19,4 +22,29 @@
     display:inline-block;
     margin: 0 16px;
     font-size: 30px;
+}
+.escola{
+    background-image:linear-gradient(#76ffde, #fff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imagem-sessão-sobre a{
+    width: 0%;
+    margin: 0px;
+
+}
+.escola-div-conteudo{
+    width: 35% ;
+}
+.estudante-imagem-monica{
+    width: 180px;
+}
+
+.estudante-imagem-cebolinha{
+    width: 110px;
+}
+
+.estudante-imagem-magali{
+    width: 120px;
 }
