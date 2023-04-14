@@ -29,6 +29,7 @@ body{
     justify-content: center;
     align-items: center;
 }
+
 .imagem-sessão-sobre a{
     width: 0%;
     margin: 0px;
@@ -47,4 +48,8 @@ body{
 
 .estudante-imagem-magali{
     width: 120px;
+}
+
+.estudante-nome{
+    padding: 40px;
 }
