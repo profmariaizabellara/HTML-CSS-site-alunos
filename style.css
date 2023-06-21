@@ -24,7 +24,6 @@ body{
     font-size: 30px;
 }
 .escola{
-    background-image:linear-gradient(#76ffde, #fff);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -52,4 +51,8 @@ body{
 
 .estudante-nome{
     padding: 40px;
+}
+
+.div-tudo{
+    background-image:linear-gradient(#76ffde, #fff);
 }
